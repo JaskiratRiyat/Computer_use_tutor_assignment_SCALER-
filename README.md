@@ -442,4 +442,4 @@ See LICENSE file for details.
 
 ---
 
-**Note:** This project was built as a high-fidelity clone of Google Calendar for educational purposes. All design elements are inspired by Google Calendar's interface.
+**Note:** This project was built as a high-fidelity clone of Google Calendar for educational purposes. All design elements are inspired by Google Calendar's interface. Credits - Jaskirat Singh, made for the take-home assignment for Scaler.
